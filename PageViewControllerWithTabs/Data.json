@@ -1,0 +1,26 @@
+
+  {
+    "DAY 1":
+    [
+      {
+        "time": "9:00 AM",
+        "event": "REGISTRATION"
+      },
+      {
+        "time": "10:00 AM",
+        "event": "SESSION 1"
+      },
+      {
+        "time": "12:00 NOON",
+        "event": "COFFEE BREAK"
+      },
+      {
+        "time": "1:00 PM",
+        "event": "SESSION 2"
+      },
+      {
+        "time": "2:30 PM",
+        "event": "LUNCH BREAK"
+      }
+    ]
+  }
